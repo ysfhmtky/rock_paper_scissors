@@ -35,49 +35,48 @@ To run the project locally, ensure you have:
 
 ---
 
-### Installation and Usage
+## Installation and Usage
 
-1. **Clone the Repository**  
-   Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/ysfhmtky/rock_paper_scissors.git
+### Clone the Repository
+Clone this repository to your local machine:
+```bash
+git clone https://github.com/ysfhmtky/rock_paper_scissors.git
 Navigate to the Project Directory
+Go to the project folder:
 
 bash
 Copy code
 cd rock_paper_scissors
 Install Dependencies
-Install required dependencies:
+Install all required dependencies:
 
 bash
 Copy code
 npm install
 Start the Development Server
-Launch the simulation locally:
+Run the development server locally:
 
 bash
 Copy code
 npm run dev
 Open in Browser
-Open the provided local URL (e.g., http://localhost:3000) to view the game.
+Visit the provided local URL (e.g., http://localhost:3000) in your web browser to view and interact with the simulation.
 
 Technologies Used
-HTML: Game structure and layout.
-CSS: Styling for the play area and icons.
-JavaScript: Movement logic, collision detection, and game mechanics.
-Node.js: For running the development server.
-
-
+HTML: Defines the structure and layout of the game.
+CSS: Styles the game area and icons.
+JavaScript: Implements movement logic, collision detection, and game rules.
+Node.js: Powers the development server for local testing.
 Future Enhancements
-Add sound effects for collisions.
-Introduce controls to customize the number of icons.
-Implement a reset feature for replayability.
+Add sound effects for collisions to enhance the experience.
+Provide user controls to adjust the number of icons in the simulation.
+Implement a reset button to allow replayability without restarting the server.
 Contributing
-Contributions are welcome! If you'd like to enhance the game, feel free to submit a pull request or report issues in the repository.
+Contributions are welcome! Feel free to:
 
+Submit a pull request for new features or fixes.
+Report issues or suggest improvements in the repository's Issues section.
 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code under the terms of this license.
 
-Enjoy the simulation and have fun exploring the battle of Rock-Paper-Scissors!
-
-This version is structured professionally and focuses on clarity, ensuring it's suitable for GitHub and other collaborative platforms.
+Enjoy the simulation and experience the battle of Rock-Paper-Scissors in action!
