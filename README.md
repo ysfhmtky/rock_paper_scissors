@@ -35,7 +35,6 @@ To run the project locally, ensure you have:
 
 ---
 
-<<<<<<< HEAD
 ## Installation and Usage
 
 ### Clone the Repository
