@@ -86,9 +86,11 @@ Enjoy the simulation and experience the battle of Rock-Paper-Scissors in action!
 1. **Clone the Repository**  
    Clone this repository to your local machine:
    ```
+```
    git clone https://github.com/ysfhmtky/rock_paper_scissors.git
+```
 Navigate to the Project Directory
-
+```
 ```
 Copy code
 cd rock_paper_scissors
